@@ -8,9 +8,9 @@ function BottomBar() {
             <p>RVVP | Rashtreeya Vidyalaya Vidyarthi Parishad</p>
             <p>R V College of Engineering, Bengaluru</p>
             
-            <a href="https://www.facebook.com/"><img src="facebook.jpeg" height="32" width="32"/>        </a>
-            <a href="https://www.instagram.com/"><img src="instagram.jpeg" height="32" width="32"/>        </a> 
-            <a href="https://www.twitter.com/"><img src="twitter.jpeg" height="32" width="32"/>        </a>
+            <a href="https://www.facebook.com/"><img src="facebook.jpg" height="32" width="32"/>        </a>
+            <a href="https://www.instagram.com/"><img src="instagram.jpg" height="32" width="32"/>        </a> 
+            <a href="https://www.twitter.com/"><img src="twitter.jpg" height="32" width="32"/>        </a>
         </div>
     )
 }

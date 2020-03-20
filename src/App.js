@@ -9,14 +9,12 @@ function App() {
   return (
     <div>
       <Title />
-      <a href='#bottom-section'>Goto bottom bar</a>
-      <p id="bottom-section"></p>
-      <BottomBar/>     
     </div>
     );
   }
   export default App;
   
+             
   
   
   
