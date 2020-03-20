@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d0752f6cbcbee394097fdf9502e392a",
+    "revision": "a594823181e9f9119eae6326d27876e2",
     "url": "/web-dev-contest-2020/index.html"
   },
   {
-    "revision": "c9653abf73404fec645a",
+    "revision": "55046cf7c32cbbf21406",
     "url": "/web-dev-contest-2020/static/css/main.e9649d0d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-dev-contest-2020/static/js/2.ff1886ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9653abf73404fec645a",
-    "url": "/web-dev-contest-2020/static/js/main.ea709c37.chunk.js"
+    "revision": "55046cf7c32cbbf21406",
+    "url": "/web-dev-contest-2020/static/js/main.71df2b68.chunk.js"
   },
   {
     "revision": "8ea0d7200843176edd1c",
